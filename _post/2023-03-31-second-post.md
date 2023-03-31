@@ -1,6 +1,6 @@
 ---
 title: "큰 수의 법칙"
-date: 2017-10-20 08:26:28 -0400
+date: 2023-03-31 19:50:28 -0400
 categories: jekyll update
 ---
 
